@@ -12,34 +12,12 @@
   position:absolute;
   z-index:0;
 }
-#u144 {
+#u146 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
-}
-#u145_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1900px;
-  height:931px;
-}
-#u145 {
-  position:absolute;
-  left:0px;
-  top:105px;
-  width:1900px;
-  height:931px;
-}
-#u146 {
-  position:absolute;
-  left:2px;
-  top:458px;
-  width:1896px;
-  visibility:hidden;
-  word-wrap:break-word;
 }
 #u147_img {
   position:absolute;
@@ -51,7 +29,7 @@
 #u147 {
   position:absolute;
   left:0px;
-  top:1007px;
+  top:105px;
   width:1900px;
   height:931px;
 }
@@ -73,7 +51,7 @@
 #u149 {
   position:absolute;
   left:0px;
-  top:1917px;
+  top:1007px;
   width:1900px;
   height:931px;
 }
@@ -95,7 +73,7 @@
 #u151 {
   position:absolute;
   left:0px;
-  top:2820px;
+  top:1917px;
   width:1900px;
   height:931px;
 }
@@ -117,7 +95,7 @@
 #u153 {
   position:absolute;
   left:0px;
-  top:3190px;
+  top:2820px;
   width:1900px;
   height:931px;
 }
@@ -129,7 +107,29 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u155_div {
+#u155_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1900px;
+  height:931px;
+}
+#u155 {
+  position:absolute;
+  left:0px;
+  top:3190px;
+  width:1900px;
+  height:931px;
+}
+#u156 {
+  position:absolute;
+  left:2px;
+  top:458px;
+  width:1896px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u157_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -148,7 +148,7 @@
   font-size:28px;
   color:#FFFFFF;
 }
-#u155 {
+#u157 {
   position:absolute;
   left:0px;
   top:0px;
@@ -157,14 +157,14 @@
   font-size:28px;
   color:#FFFFFF;
 }
-#u156 {
+#u158 {
   position:absolute;
   left:2px;
   top:34px;
   width:1896px;
   word-wrap:break-word;
 }
-#u157_div {
+#u159_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -180,7 +180,7 @@
   font-size:20px;
   color:#FFFFFF;
 }
-#u157 {
+#u159 {
   position:absolute;
   left:20px;
   top:10px;
@@ -189,7 +189,7 @@
   font-size:20px;
   color:#FFFFFF;
 }
-#u158 {
+#u160 {
   position:absolute;
   left:0px;
   top:0px;
